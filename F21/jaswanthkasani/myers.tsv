@@ -10,3 +10,4 @@
 {"a" : 4, "b" : 4, "c" : 6}	isosceles
 {"a" : 9, "b" : 10, "c" : 11}	scalene
 {"a" : 8, "b" : 8, "c" : 8} equilateral
+{"a" : 3, "b" : 3, "c" : 8}	isosceles
